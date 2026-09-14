@@ -3,3 +3,7 @@ Q1: Why might we consider using Git?
 Answer: We might consider using Git to manage code efficiently when working in
 a team.
 
+Q2: What field could data science be applied to?
+
+Answer: Data science could be applied to mathematics, computer science,
+machine learning, data processing, statistical research, and domain expertise.
