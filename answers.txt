@@ -1,4 +1,1 @@
-Q2: What field could data science be applied to?
 
-Answer: Data science could be applied to mathematics, computer science,
-machine learning, statistical research, and data processing.
