@@ -7,3 +7,9 @@ Q2: What field could data science be applied to?
 
 Answer: Data science could be applied to mathematics, computer science,
 machine learning, data processing, statistical research, and domain expertise.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines changes from different branches in one new commit,
+while rebasing rewrites the project history into a linear timeline of commits
+on the main branch.
